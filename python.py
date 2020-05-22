@@ -1,5 +1,5 @@
 import random
-# hiiii
+
 nickname = ["The bulldog", "Cool guy", "Coder", "Sleepyhead", "Hungry"]
 
 print("Please enter your name")
@@ -19,7 +19,3 @@ if choice == '1':
 elif choice == '2':
     randomnickname = random.choice(nickname)
     print(firstname + " " +randomnickname + " " + lastname)
-elif choice == '3'
-    
-
-elif choice == '4 '
